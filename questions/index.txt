@@ -1,0 +1,49 @@
+rotal Printud Pages: 02 
+Time:3 Hrs 
+Word limit be observed as follows: 
+Part a-Max 50 words, Note: Total number of questions are 05. All Questions are compulsory. Each Question has 4 
+parts (a, b, c, d). Part a, b & care compulsory while Part d has internal Choice. Assume 
+missing data, if any. 
+Part c-Max 100 words and 
+Word limit NOT to be followed for diagram, numerical, derivation. Examination -April/May- 2023 
+B.Tech. VI Sem : Internet of Things 
+Operating System 
+Q.1 (a) What are the goals of an Operating System? 
+Q.2 (a) (b) What is 'Monitor"? Briefly describe its role in Distributed Operating System. 
+(c) What is multiprogramming? How it is different from multiprocessing. 
+(d) Discuss the properties of the following types of operating system: 
+() Interactive (ii) Network 
+Process 
+PI IoT-2061 
+Part b-Max 50 words, 
+Explain Binary Semaphores and Counting Semaphores. 
+(d) Consider the following table: 
+P2 Part d -Max 400 words. 
+P3 (c) What is critical section problem? How it is solved in OS. 
+P4 
+() What is batch operating system? Compare it with multiprogramming OS. Also writes its 07 
+drawbacks. 
+(iü) 0 (b) Why it is important for a scheduler to distinguish between I/O-bound programs from 02 
+CPU-bound programs? 
+Arrival Time (ms) 
+1 
+2 (iii) Distributed 
+3 OR 
+Burst Time (ms) 
+8 
+4 
+Provide the schedule using preemptive shortest job first (SJF). Roll No., ... 
+9 
+5 
+Prepare Gantt chart for the above. 
+1 Max. Marks:70 
+Min. Marks : 22 
+Calculate average turn-around & waiting time for the same. 
+OR 02 
+02 
+03 
+IoT-2061 07 
+02 
+What are the conditions necessary for the deadlock to occur and methods for bandling 07 
+it? Is it possible that deadlock can occur if one process is running only? Justify. 03 
+07 
